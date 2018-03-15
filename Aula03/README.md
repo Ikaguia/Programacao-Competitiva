@@ -205,7 +205,7 @@ map<int,int> mapa;
 // codigo que preenche o map
 
 // p é um par de chave valor
-for(auto& p : mapa){
+for(auto p : mapa){
 	printf("%d %d",p.first,p.second);
 }
 ```
