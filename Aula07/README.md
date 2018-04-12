@@ -189,6 +189,8 @@ vector<int> primos_ate_n(int N){
 }
 ```
 
+Esse algorítmo, conhecido como Crivo de Eratóstenes, tem complexidade `N log(log(N))`.
+
 
 ## Fatoração
 
